@@ -20,6 +20,11 @@ public class Main {
         String  mediaDosPublicos = (" A media aritimetica do filme foi de: " + media);
         System.out.println(mediaDosPublicos + " o filme teve uma boa avaliacao!");
         //meritos finais
-
+        // casting implicito
+        int  x = 10;
+        double y = x;
+        //casting explicito
+        double a = 10.5;
+        int b = (int) x;
     }
 }
