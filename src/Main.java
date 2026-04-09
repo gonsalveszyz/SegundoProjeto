@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Nota do Filme pelo publico: "+notaFilme);
         System.out.println("Nota do Filme pela critica: "+notaDoFilmeCritica);
         double media = (9.1 + 8.0) /2;
-        String  mediaDosPublicos = (" A media aritimetica do filme foi de: 8.55 ");
+        String  mediaDosPublicos = (" A media aritimetica do filme foi de: " + media);
         System.out.println(mediaDosPublicos + " o filme teve uma boa avaliacao!");
 
     }
