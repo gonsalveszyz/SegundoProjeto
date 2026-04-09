@@ -14,5 +14,7 @@ public class Main {
         double notaDoFilmeCritica = 8.0;
         System.out.println("Nota do Filme pelo publico: "+notaFilme);
         System.out.println("Nota do Filme pela critica: "+notaDoFilmeCritica);
+        double media = 9.1 * 8.0 /2;
+        System.out.println(media);
     }
 }
