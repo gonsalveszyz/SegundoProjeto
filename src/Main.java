@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Bem vindo");
         System.out.println("Filme: Top gun Maverick");
         //bem vindo e nome do filme
-        int anoDeLancamento  = 2022;
+        int anoDeLancamento  = 22;
         System.out.println ("Ano de lacamento: " + anoDeLancamento);
         //ano de lancamento
         String descricaoTopGunMaverick =("O filme conta a historia do piloto Maverick junto dos seus companheiros " +
